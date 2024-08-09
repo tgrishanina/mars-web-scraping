@@ -98,3 +98,7 @@ On average, atmospheric pressure is the lowest in the sixth month, and highest i
 The distance between peaks on this graph is about 675 days. Therefore, we can infer that a year on mars is equivalent to (roughly) 675 Earth days.
 
 - Export the DataFrame to a CSV file.
+
+## Source Code
+
+Received AI assistance with creating the dataframe in Part 2.
